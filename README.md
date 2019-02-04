@@ -19,8 +19,7 @@ A cellular social simulation
 
 * Agents are repelled by other agents and seek isolation when **Social Need** is satisfied or when **Social Energy** is sufficiently depleted
 
-
-* There is an *X%* chance of spawning a new agent on direct social contact
+* Agents spawn offspring at a random interval
 
 * Agent's ability to regenerate and drain the **Social Need** and **Social Energy** of others is unique to the agent
 
@@ -32,6 +31,8 @@ A cellular social simulation
 
 
 # v2
+
+* There is an *X%* chance of spawning a new agent on direct social contact
 
 * Agents who overload *beyond max* on social energy become **mega emitters** and surrounding agents receive extra social energy from further away
 
