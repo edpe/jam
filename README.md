@@ -30,3 +30,8 @@ A cellular social simulation
 
 * If **Social Energy** is at minimum for *too long*, the agent dies
 
+#v2
+
+* Agents who overload *beyond max* on social energy become **mega emitters** and surrounding agents receive extra social energy from further away
+* The mega emitter's **Social Need** increases more rapidly 
+* The mega emitter's **Social Energy** decreases more rapidly
